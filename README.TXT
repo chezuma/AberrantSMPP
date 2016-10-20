@@ -1,3 +1,12 @@
+Need a SMPP-client for .net core. 
+
+This project seemed like a good starting point. 
+
+
+-chezuma
+
+========================== pruiz old readme =========================
+
 
 This is my own fork of RoaminSMPP code which wasnt maintained anymore.
 By now this is nothing more than an upgraded layout with VS2k10 solution files. 
